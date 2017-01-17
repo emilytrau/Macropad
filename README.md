@@ -5,6 +5,8 @@ A small and cheap 8 key macropad.
 ## Parts Required
 + PCB
 + Arduino Pro Micro
++ 8 Cherry MX Compatible switches
++ 8 Keycaps
 
 ## Where to buy
 If you can't or don't want to produce this PCB yourself, you can PM me on [Reddit](https://www.reddit.com/user/amtra5), and I can send you one for $2 + Shipping! (from Australia)
