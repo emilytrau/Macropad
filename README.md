@@ -7,7 +7,7 @@ A small and cheap 8 key macropad.
 + Arduino Pro Micro
 
 ## Where to buy
-If you can't or don't want to produce this PCB yourself, you can PM me on [Reddit](https://www.reddit.com/user/amtra5), and I can send you one for $2 + Shipping (from Australia)!
+If you can't or don't want to produce this PCB yourself, you can PM me on [Reddit](https://www.reddit.com/user/amtra5), and I can send you one for $2 + Shipping! (from Australia)
 
 ## Firmware
 The official firmware is not quite ready yet! Until then, use the following guide to help you build your own.
